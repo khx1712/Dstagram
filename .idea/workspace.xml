@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c26e125-d74b-4327-aed3-bfa8514a2fde" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/photo/templates/photo/detail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/media/photos/2020/01/22/pyhon_logo_FS1YAUB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/photo/templates/photo/update.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
